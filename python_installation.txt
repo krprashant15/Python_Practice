@@ -1,0 +1,9 @@
+#First verify whether python and pip is installed or not in your system using below command.
+python --version
+pip3 --version
+
+#if python is not installed then use below link to install
+https://www.python.org/downloads/
+
+#follow this medium article to get full installation guide for python
+https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013
