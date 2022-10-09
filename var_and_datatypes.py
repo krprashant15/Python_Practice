@@ -1,6 +1,6 @@
 a = 10
 b = 9.2
-c = "Shashank"
+c = "Prashant"
 d = True
 
 print("Value of a : ",a)
