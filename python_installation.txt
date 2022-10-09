@@ -7,3 +7,19 @@ https://www.python.org/downloads/
 
 #follow this medium article to get full installation guide for python
 https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013
+
+# Install Python in windows
+https://docs.python-guide.org/starting/install3/win/
+
+# Install Python in Linux
+https://docs.python-guide.org/starting/install3/linux/
+
+# Install Python in Mac
+https://docs.python-guide.org/starting/install3/osx/
+
+
+# If facing any diffculties then simply use Online IDE
+
+# Download PyCharm
+
+https://www.jetbrains.com/pycharm/download/#section=windows
